@@ -2,76 +2,25 @@
 The lab covers storage redundancy, networking, data protection, encryption, Blob Storage, Shared Access Signatures (SAS), access keys, and Microsoft Entra ID role-based access control (RBAC).
 The lab covers storage redundancy, networking, data protection, encryption, Blob Storage, Shared Access Signatures (SAS), access keys, and Microsoft Entra ID role-based access control (RBAC).
 
-Objectives
 
-Create and configure an Azure Storage Account
+## Lab Steps
 
-Review redundancy and resiliency options
+## Step 1: Create the Azure Storage Account
 
-Configure storage networking
+### What I did
 
-Review access tiers
+I navigated to **Storage accounts** in the Azure portal and created a new Azure Storage Account.
 
-Configure data protection settings
+During deployment, I configured:
 
-Review encryption options
+- Subscription
+- Resource group
+- Storage account name
+- Azure region
+- Performance tier
+- Redundancy option
 
-Create a Blob Storage container
-
-Upload and validate a file
-
-Review Access Keys and Shared Access Signatures (SAS)
-
-Use Microsoft Entra ID and Azure RBAC to control access
-
-Validate the completed storage configuration
-
-Technologies Used
-
-Microsoft Azure
-
-Azure Storage Accounts
-
-Azure Blob Storage
-
-Microsoft Entra ID
-
-Azure Role-Based Access Control (RBAC)
-
-Shared Access Signatures (SAS)
-
-Azure Portal
-
-Architecture
-
-flowchart TD
-    A[Administrator / User] --> B[Microsoft Entra ID]
-    B --> C[Azure RBAC]
-    C --> D[Azure Storage Account]
-    D --> E[Blob Container]
-    E --> F[Uploaded File]
-
-Lab Steps
-
--- 1. Create the Storage Account
-
-In the Azure Portal, I navigated to Storage accounts and created a new storage account.
-
-Configuration included:
-
-Subscription
-
-Resource group
-
-Unique storage account name
-
-Azure region
-
-Performance tier
-
-Redundancy option
-
-Screenshot:
+### Screenshot:
 
 <img width="632" height="667" alt="image" src="https://github.com/user-attachments/assets/3044580f-911f-495a-ac97-9ec0ec994cba" />
 
@@ -79,20 +28,24 @@ Screenshot:
 
 
 
-2. Review Storage Redundancy
+## Step 2: Configure Storage Redundancy
 
-I reviewed Azure Storage redundancy options to understand how data can be replicated for availability and resiliency.
+### What I did
 
-Common options include:
+I reviewed the redundancy options available for the Storage Account.
 
-Locally Redundant Storage (LRS)
+Azure provides several replication options, including:
 
-Zone-Redundant Storage (ZRS)
+- Locally Redundant Storage (LRS)
+- Zone-Redundant Storage (ZRS)
+- Geo-Redundant Storage (GRS)
+- Geo-Zone-Redundant Storage (GZRS)
 
-Geo-Redundant Storage (GRS)
+I selected the redundancy option required for the lab.
 
-Geo-Zone-Redundant Storage (GZRS)
+### Why it matters
 
+Storage redundancy determines how Azure replicates data to protect against hardware failures, datacenter outages, or regional failures.
 Screenshot: 
 
 <img width="628" height="666" alt="image" src="https://github.com/user-attachments/assets/2f936f32-09fc-4d5b-847a-e34c3892296e" />
@@ -101,7 +54,7 @@ Screenshot:
 
 
 
-3. Review Advanced Storage Options
+## Step 3. Review Advanced Storage Options
 
 I reviewed the advanced configuration settings available for the storage account, including security-related options such as:
 Secure transfer requirements
@@ -125,15 +78,24 @@ Screenshots:
 
 
 
-4. Review Access Tiers
 
-I reviewed Azure Blob Storage access tiers and when each tier should be used.
+## Step 4: Configure the Storage Access Tier
 
-Hot: Frequently accessed data
+### What I did
 
-Cool: Infrequently accessed data
+I reviewed the available Blob Storage access tiers.
 
-Cold / Archive: Long-term data that is rarely accessed
+The primary tiers include:
+
+- **Hot** – Frequently accessed data
+- **Cool** – Infrequently accessed data
+- **Cold / Archive** – Data that is rarely accessed
+
+For this lab, I used the access tier required by the configuration.
+
+### Why it matters
+
+Access tiers allow organizations to balance storage performance and cost based on how frequently data is accessed.
 
 Screenshot: screenshots/04-access-tier.png
 
