@@ -91,7 +91,10 @@ Geo-Redundant Storage (GRS)
 
 Geo-Zone-Redundant Storage (GZRS)
 
-Screenshot: screenshots/02-redundancy.png
+Screenshot: 
+
+<img width="632" height="698" alt="image" src="https://github.com/user-attachments/assets/6a6402d4-a594-4d17-9499-0035cfc64278" />
+
 
 
 
@@ -109,7 +112,12 @@ Hierarchical namespace
 
 SFTP / NFS options when available
 
-Screenshot: screenshots/03-advanced-options.png
+Screenshot: 
+
+<img width="630" height="697" alt="image" src="https://github.com/user-attachments/assets/c5f43bc0-85d6-4bce-bf36-f3b488327fa5" />
+
+<img width="639" height="709" alt="image" src="https://github.com/user-attachments/assets/6322cb25-4c30-4926-aefe-718058a51ddd" />
+
 
 
 
