@@ -73,7 +73,7 @@ Redundancy option
 
 Screenshot:
 
-<img width="635" height="700" alt="image" src="https://github.com/user-attachments/assets/d82c73e3-eb39-4b64-9331-c7660e8f8b7c" />
+<img width="632" height="667" alt="image" src="https://github.com/user-attachments/assets/3044580f-911f-495a-ac97-9ec0ec994cba" />
 
 
 
@@ -95,7 +95,8 @@ Geo-Zone-Redundant Storage (GZRS)
 
 Screenshot: 
 
-<img width="632" height="698" alt="image" src="https://github.com/user-attachments/assets/6a6402d4-a594-4d17-9499-0035cfc64278" />
+<img width="628" height="666" alt="image" src="https://github.com/user-attachments/assets/2f936f32-09fc-4d5b-847a-e34c3892296e" />
+
 
 
 
@@ -115,9 +116,10 @@ SFTP / NFS options when available
 
 Screenshots: 
 
-<img width="630" height="697" alt="image" src="https://github.com/user-attachments/assets/c5f43bc0-85d6-4bce-bf36-f3b488327fa5" />
+<img width="624" height="668" alt="image" src="https://github.com/user-attachments/assets/d9597635-f519-4934-826d-659c01cbeb5f" />
 
-<img width="634" height="668" alt="image" src="https://github.com/user-attachments/assets/c5457a61-0dff-422b-a641-32e0dd121849" />
+<img width="632" height="673" alt="image" src="https://github.com/user-attachments/assets/2b78745e-188d-4066-bdff-6d470aff0c60" />
+
 
 
 
@@ -153,7 +155,11 @@ Private Endpoints
 
 Restricting unnecessary public access reduces the attack surface of the storage account.
 
-Screenshot: screenshots/05-networking.png
+Screenshot:
+
+
+<img width="631" height="660" alt="image" src="https://github.com/user-attachments/assets/38c69dc2-f814-4be7-9907-61103b588b73" />
+
 
 
 
