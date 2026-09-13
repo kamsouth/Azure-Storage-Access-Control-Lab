@@ -177,7 +177,10 @@ Blob versioning
 
 Point-in-time restore
 
-Screenshot: screenshots/06-data-protection.png
+Screenshot: 
+
+<img width="630" height="689" alt="image" src="https://github.com/user-attachments/assets/33903868-f952-42a8-b025-f09b92837c88" />
+
 
 
 
