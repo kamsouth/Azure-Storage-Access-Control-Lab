@@ -71,7 +71,8 @@ Performance tier
 
 Redundancy option
 
-Screenshot: <img width="645" height="706" alt="image" src="https://github.com/user-attachments/assets/c7988108-145f-4ed9-9fba-3572034ba154" />
+Screenshot: <img width="635" height="700" alt="image" src="https://github.com/user-attachments/assets/d82c73e3-eb39-4b64-9331-c7660e8f8b7c" />
+
 
 
 
