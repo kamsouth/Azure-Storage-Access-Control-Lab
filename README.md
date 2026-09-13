@@ -222,6 +222,9 @@ Screenshot:
 <img width="638" height="674" alt="image" src="https://github.com/user-attachments/assets/3b57c034-f8df-4ca8-833e-c0618d9c6693" />
 
 
+<img width="482" height="336" alt="image" src="https://github.com/user-attachments/assets/5bfbd2d6-b4a2-4541-889f-de7b19d8e7ff" />
+
+
 
 
 
