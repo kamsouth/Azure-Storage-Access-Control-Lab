@@ -251,7 +251,14 @@ Creating a time based immutable storage policy:
 
 I uploaded a test file to the Blob container and verified that it appeared successfully.
 
-Screenshot: screenshots/10-file-upload.png
+I laso changed the access tier  to "Hot" and uploaded to folder "security test" 
+
+Screenshot:
+
+
+<img width="625" height="670" alt="image" src="https://github.com/user-attachments/assets/7818994d-d37c-4ece-8bd0-88a71f1b6ed1" />
+
+
 
 
 
