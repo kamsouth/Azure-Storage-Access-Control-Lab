@@ -117,7 +117,8 @@ Screenshots:
 
 <img width="630" height="697" alt="image" src="https://github.com/user-attachments/assets/c5f43bc0-85d6-4bce-bf36-f3b488327fa5" />
 
-<img width="639" height="709" alt="image" src="https://github.com/user-attachments/assets/6322cb25-4c30-4926-aefe-718058a51ddd" />
+<img width="634" height="668" alt="image" src="https://github.com/user-attachments/assets/c5457a61-0dff-422b-a641-32e0dd121849" />
+
 
 
 
