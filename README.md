@@ -72,6 +72,7 @@ Performance tier
 Redundancy option
 
 Screenshot:
+
 <img width="635" height="700" alt="image" src="https://github.com/user-attachments/assets/d82c73e3-eb39-4b64-9331-c7660e8f8b7c" />
 
 
@@ -102,7 +103,6 @@ Screenshot:
 3. Review Advanced Storage Options
 
 I reviewed the advanced configuration settings available for the storage account, including security-related options such as:
-
 Secure transfer requirements
 
 Blob public access
@@ -113,7 +113,7 @@ Hierarchical namespace
 
 SFTP / NFS options when available
 
-Screenshot: 
+Screenshots: 
 
 <img width="630" height="697" alt="image" src="https://github.com/user-attachments/assets/c5f43bc0-85d6-4bce-bf36-f3b488327fa5" />
 
