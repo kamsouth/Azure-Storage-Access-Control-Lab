@@ -194,7 +194,10 @@ Microsoft-managed keys
 
 Customer-managed keys
 
-Screenshot: screenshots/07-encryption.png
+Screenshot:
+
+<img width="630" height="683" alt="image" src="https://github.com/user-attachments/assets/5ab97984-59fe-4cff-8056-876b661738f8" />
+
 
 
 
@@ -214,7 +217,13 @@ Performance tier
 
 Storage account status
 
-Screenshot: screenshots/08-storage-overview.png
+Screenshot: 
+
+<img width="638" height="674" alt="image" src="https://github.com/user-attachments/assets/3b57c034-f8df-4ca8-833e-c0618d9c6693" />
+
+
+
+
 
 
 
