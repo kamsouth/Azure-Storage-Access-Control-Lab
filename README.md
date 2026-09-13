@@ -236,7 +236,10 @@ Under Data storage > Containers, I created a Blob Storage container.
 
 The container provides a logical location for storing unstructured objects such as documents, images, logs, and backups.
 
-Screenshot: screenshots/09-blob-container.png
+Screenshot: 
+
+<img width="629" height="348" alt="image" src="https://github.com/user-attachments/assets/94e0be1b-197e-40a9-b894-f120b247b5d0" />
+
 
 
 
