@@ -71,7 +71,8 @@ Performance tier
 
 Redundancy option
 
-Screenshot: screenshots/01-create-storage-account.png
+Screenshot: <img width="645" height="706" alt="image" src="https://github.com/user-attachments/assets/c7988108-145f-4ed9-9fba-3572034ba154" />
+
 
 
 
