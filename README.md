@@ -263,6 +263,18 @@ Screenshots:
 
 
 
+I copied the URL and pasted it in an inprivate browser:
+<img width="632" height="197" alt="image" src="https://github.com/user-attachments/assets/1ee14f5b-5e15-429d-9a78-38a0d26d42b9" />
+
+
+Generated a SAS token by changing the signing method to "User delegation key, the start date to yesterday's date, and the expiray date to tomorrow:
+
+<img width="635" height="671" alt="image" src="https://github.com/user-attachments/assets/b0a94679-2e9f-45ac-ad15-8a774eff2d14" />
+
+
+Testing the URL after generating the SAS:
+<img width="603" height="317" alt="image" src="https://github.com/user-attachments/assets/1c2aada9-65b5-4e7f-bc7e-ce3fa8140ad1" />
+
 
 
 11. Review Access Keys and SAS
