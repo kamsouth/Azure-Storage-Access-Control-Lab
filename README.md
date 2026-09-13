@@ -253,10 +253,13 @@ I uploaded a test file to the Blob container and verified that it appeared succe
 
 I laso changed the access tier  to "Hot" and uploaded to folder "security test" 
 
-Screenshot:
+Screenshots:
 
 
 <img width="625" height="670" alt="image" src="https://github.com/user-attachments/assets/7818994d-d37c-4ece-8bd0-88a71f1b6ed1" />
+
+
+<img width="627" height="329" alt="image" src="https://github.com/user-attachments/assets/a661d650-42de-47e9-9ac3-0e715546834a" />
 
 
 
