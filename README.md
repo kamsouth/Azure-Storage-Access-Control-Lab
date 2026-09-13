@@ -53,7 +53,7 @@ flowchart TD
 
 Lab Steps
 
-1. Create the Storage Account
+-- 1. Create the Storage Account
 
 In the Azure Portal, I navigated to Storage accounts and created a new storage account.
 
