@@ -101,7 +101,7 @@ Screenshot: screenshots/04-access-tier.png
 
 
 
-5. Configure Networking
+## Step 5. Configure Networking
 
 I reviewed the networking configuration for the storage account.
 
@@ -125,7 +125,7 @@ Screenshot:
 
 
 
-6. Configure Data Protection
+## Step 6. Configure Data Protection
 
 I reviewed data protection features designed to help recover deleted or modified objects.
 
@@ -146,7 +146,7 @@ Screenshot:
 
 
 
-7. Review Encryption
+## Step 7. Review Encryption
 
 Azure Storage encrypts data at rest by default.
 
@@ -192,7 +192,7 @@ Screenshot:
 
 
 
-9. Create a Blob Container
+## Step 9. Create a Blob Container
 
 Under Data storage > Containers, I created a Blob Storage container.
 
@@ -209,7 +209,7 @@ Creating a time based immutable storage policy:
 
 
 
-10. Upload a File
+## Step 10. Upload a File
 
 I uploaded a test file to the Blob container and verified that it appeared successfully.
 
@@ -239,7 +239,7 @@ Testing the URL after generating the SAS:
 
 
 
-11. Review Access Keys and SAS
+## Step 11. Review Access Keys and SAS
 
 I reviewed the authentication options available for Azure Storage.
 
@@ -267,7 +267,7 @@ Screenshot: screenshots/11-sas-settings.png
 
 
 
-12. Review Microsoft Entra ID and Azure RBAC
+## Step 12. Review Microsoft Entra ID and Azure RBAC
 
 I opened Access Control (IAM) for the Storage Account and reviewed Azure roles used to control access to storage data.
 
@@ -292,48 +292,6 @@ I validated the final configuration by confirming that the Blob container and up
 Screenshot: screenshots/13-final-validation.png
 
 
-
-Security Concepts Demonstrated
-
-Least privilege
-
-Identity-based authorization
-
-Role-Based Access Control
-
-Secure cloud storage
-
-Data-at-rest encryption
-
-Network access restrictions
-
-Data resiliency
-
-Data recovery
-
-Shared Access Signatures
-
-Skills Demonstrated
-
-Azure Storage administration
-
-Azure Blob Storage
-
-Microsoft Entra ID
-
-Azure RBAC
-
-Cloud access management
-
-Azure networking
-
-Data protection
-
-Storage encryption
-
-Cloud security fundamentals
-
-Azure Portal administration
 
 Key Takeaways
 
